@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 //This program uses the Fibonacci sequence and finds the nth number in the sequence that the user is looking for.
-//Author: Maria Psomas 
+//Author: Badtothebunny
 int main(int argc, char** argv) 
 {
 	int n,sum=1,fib=0,cnt=0;
@@ -19,3 +19,4 @@ int main(int argc, char** argv)
 	else
 		cout<<"The "<<n<<" number of the fibonacci sequence is:"<<endl<<sum<<endl;
 }
+
